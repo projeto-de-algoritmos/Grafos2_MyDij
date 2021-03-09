@@ -12,15 +12,15 @@
 
 ## Sobre 
 O objetivo do projeto é mostrar de forma interativa e intuitiva o funcionamento do algoritmo Dijkstra. 
-Link da [apresentação]()
+Link da [apresentação](https://youtu.be/zCFUqLfjexs)
 
 ## Screenshots
 
-![primeira tela]()
+![primeira tela](https://i.imgur.com/3edoGGf.png)
 <br>
-![segunda tela]()
+![segunda tela](https://i.imgur.com/WKAVrQk.png)
 <br>
-![terceira tela]()
+![terceira tela](https://i.imgur.com/yIXvV3o.png)
 <br>
 
 
