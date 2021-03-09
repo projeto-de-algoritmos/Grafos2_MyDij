@@ -1,28 +1,40 @@
 
 # MyDij
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0028324  |  Thiago Luiz de Souza Gomes |
+| 18/0033743  |  João Pedro Silva de Carvalho |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é mostrar de forma interativa e intuitiva o funcionamento do algoritmo Dijkstra. 
+Link da [apresentação]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![primeira tela]()
+<br>
+![segunda tela]()
+<br>
+![terceira tela]()
+<br>
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+```
+ sudo apt-get install python 3.8.5
+```
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Rodar o comando python3 Mydij.py no terminal.
+Após executar o programa siga as instruções na tela.
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
